@@ -1,0 +1,13 @@
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Domain\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Domain.deps.json
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Domain\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Domain.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Domain\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Domain.pdb
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Domain\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Domain\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Domain.AssemblyInfoInputs.cache
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Domain\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Domain.AssemblyInfo.cs
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Domain\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Domain.csproj.CoreCompileInputs.cache
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Domain\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Domain.sourcelink.json
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Domain\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Domain.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Domain\obj\Debug\net8.0\refint\[CNPM] [08] [Nhóm 12] QLKS.Domain.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Domain\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Domain.pdb
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Domain\obj\Debug\net8.0\ref\[CNPM] [08] [Nhóm 12] QLKS.Domain.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Domain\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Domain.csproj.AssemblyReference.cache

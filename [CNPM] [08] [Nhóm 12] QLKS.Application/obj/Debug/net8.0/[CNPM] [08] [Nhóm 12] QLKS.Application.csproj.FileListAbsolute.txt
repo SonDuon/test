@@ -1,0 +1,16 @@
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Application\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Application.deps.json
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Application\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Application.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Application\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Application.pdb
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Application\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Domain.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Application\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Domain.pdb
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Application\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Application.csproj.AssemblyReference.cache
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Application\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Application.GeneratedMSBuildEditorConfig.editorconfig
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Application\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Application.AssemblyInfoInputs.cache
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Application\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Application.AssemblyInfo.cs
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Application\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Application.csproj.CoreCompileInputs.cache
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Application\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Application.sourcelink.json
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Application\obj\Debug\net8.0\[CNPM] [.7CE24939.Up2Date
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Application\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Application.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Application\obj\Debug\net8.0\refint\[CNPM] [08] [Nhóm 12] QLKS.Application.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Application\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Application.pdb
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Application\obj\Debug\net8.0\ref\[CNPM] [08] [Nhóm 12] QLKS.Application.dll

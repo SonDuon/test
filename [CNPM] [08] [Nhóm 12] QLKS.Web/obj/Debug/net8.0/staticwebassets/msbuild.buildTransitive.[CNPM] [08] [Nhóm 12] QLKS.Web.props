@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\[CNPM] [08] [Nhóm 12] QLKS.Web.props" />
+</Project>

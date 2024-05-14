@@ -1,0 +1,132 @@
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Web.csproj.AssemblyReference.cache
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Web.GeneratedMSBuildEditorConfig.editorconfig
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Web.AssemblyInfoInputs.cache
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Web.AssemblyInfo.cs
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Web.csproj.CoreCompileInputs.cache
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Web.MvcApplicationPartsAssemblyInfo.cache
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Web.RazorAssemblyInfo.cache
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Web.RazorAssemblyInfo.cs
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Web.sourcelink.json
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\appsettings.Development.json
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\appsettings.json
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Web.staticwebassets.runtime.json
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Web.exe
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Web.deps.json
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Web.runtimeconfig.json
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Web.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Web.pdb
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\BouncyCastle.Cryptography.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\Google.Protobuf.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\Humanizer.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\K4os.Compression.LZ4.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\K4os.Compression.LZ4.Streams.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\K4os.Hash.xxHash.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\Microsoft.Bcl.AsyncInterfaces.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.CSharp.Workspaces.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\Microsoft.CodeAnalysis.Workspaces.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Abstractions.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Design.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\Microsoft.EntityFrameworkCore.Relational.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\Microsoft.Extensions.DependencyModel.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\MySql.Data.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\MySql.EntityFrameworkCore.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\System.CodeDom.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\System.Composition.AttributedModel.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\System.Composition.Convention.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\System.Composition.Hosting.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\System.Drawing.Common.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\System.Security.Permissions.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\ZstdSharp.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.CSharp.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\fr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\it\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\ja\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\ko\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\pl\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\pt-BR\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\ru\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\tr\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\Microsoft.Win32.SystemEvents.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\runtimes\win-x64\native\comerr64.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\runtimes\win-x64\native\gssapi64.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\runtimes\win-x64\native\k5sprt64.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\runtimes\win-x64\native\krb5_64.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\runtimes\win-x64\native\krbcc64.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\runtimes\unix\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Drawing.Common.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\runtimes\win\lib\netstandard2.0\System.Security.Cryptography.ProtectedData.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\runtimes\win\lib\netcoreapp3.0\System.Windows.Extensions.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Domain.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure.pdb
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Domain.pdb
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\staticwebassets.build.json
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\staticwebassets.development.json
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\staticwebassets\msbuild.[CNPM] [08] [Nhóm 12] QLKS.Web.Microsoft.AspNetCore.StaticWebAssets.props
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\staticwebassets\msbuild.build.[CNPM] [08] [Nhóm 12] QLKS.Web.props
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.[CNPM] [08] [Nhóm 12] QLKS.Web.props
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.[CNPM] [08] [Nhóm 12] QLKS.Web.props
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\staticwebassets.pack.json
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\scopedcss\bundle\[CNPM] [08] [Nhóm 12] QLKS.Web.styles.css
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\scopedcss\projectbundle\[CNPM] [08] [Nhóm 12] QLKS.Web.bundle.scp.css
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\[CNPM] [.8FC534D7.Up2Date
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Web.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\refint\[CNPM] [08] [Nhóm 12] QLKS.Web.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Web.pdb
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Web.genruntimeconfig.cache
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\ref\[CNPM] [08] [Nhóm 12] QLKS.Web.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Web\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Web.MvcApplicationPartsAssemblyInfo.cs

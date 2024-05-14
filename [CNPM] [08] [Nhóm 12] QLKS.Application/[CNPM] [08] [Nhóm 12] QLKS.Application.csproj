@@ -1,0 +1,13 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <RootNamespace>_CNPM___08___Nhóm_12__QLKS.Application</RootNamespace>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\[CNPM] [08] [Nhóm 12] QLKS.Domain\[CNPM] [08] [Nhóm 12] QLKS.Domain.csproj" />
+
+  </ItemGroup>
+</Project>

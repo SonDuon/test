@@ -1,0 +1,23 @@
+<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <RootNamespace>_CNPM___08___Nhóm_12__QLKS.Web</RootNamespace>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <PackageReference Include="Microsoft.EntityFrameworkCore.Design" Version="8.0.3">
+      <IncludeAssets>runtime; build; native; contentfiles; analyzers; buildtransitive</IncludeAssets>
+      <PrivateAssets>all</PrivateAssets>
+    </PackageReference>
+    <PackageReference Include="MySql.EntityFrameworkCore" Version="8.0.0+MySQL8.3.0" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure.csproj" />
+      <ProjectReference Include="..\[CNPM] [08] [Nhóm 12] QLKS.Application\[CNPM] [08] [Nhóm 12] QLKS.Application.csproj" />
+  </ItemGroup>
+
+</Project>

@@ -1,0 +1,20 @@
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure.csproj.AssemblyReference.cache
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure.AssemblyInfoInputs.cache
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure.AssemblyInfo.cs
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure.csproj.CoreCompileInputs.cache
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure.sourcelink.json
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure.deps.json
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure.runtimeconfig.json
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure.pdb
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Domain.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Domain.pdb
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\obj\Debug\net8.0\[CNPM] [.886576AE.Up2Date
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\obj\Debug\net8.0\refint\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure.pdb
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\obj\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure.genruntimeconfig.cache
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\obj\Debug\net8.0\ref\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Application.dll
+D:\bt nhom\cnpm-08-nhom-12-qlks\[CNPM] [08] [Nhóm 12] QLKS.Infrastructure\bin\Debug\net8.0\[CNPM] [08] [Nhóm 12] QLKS.Application.pdb
